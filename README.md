@@ -1,6 +1,8 @@
 # Yiichecker
 console yii2 command, which helps to check url (or file of urls) for Yii framework fingerprints (does a website use yii or not)
 
+![terminal usage example](https://user-images.githubusercontent.com/1950858/60845491-290fe100-a1e5-11e9-9f30-eb06ed7fce32.jpg)
+
 ## How to use:
 1. Upload YiicheckController file to your commands folder (for Basic Yii template) or to console/controllers (for Advanced Yii template)
 2. Go to your root folder of Yii framework
