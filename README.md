@@ -8,7 +8,7 @@ Console Yii2 command, which helps to check any url for Yii framework fingerprint
 ```
     ./yii yiicheck/url www.yiiframework.com
 ```
-4. you can execute the **command to check file of urls** (one url per line):
+4. You also can execute the **command to check file of urls** (one url per line) in a silent mode or not:
 ```
 ./yii yiicheck/file input_file_path output_file_path[optional, you can skip it] show_output[optional (default true)]
 ```
