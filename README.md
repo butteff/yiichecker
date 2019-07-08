@@ -1,5 +1,5 @@
 # Yiichecker
-console yii2 command, which helps to check url (or file of urls) for Yii framework fingerprints (does a website use yii or not)
+Console Yii2 command, which helps to check any url for Yii framework fingerprints (does a website use yii or not). It also can check a list of urls (from the file). It can output results to a file (if you need) and work in a silent mode (optional parameter too).
 
 ![terminal usage example](https://user-images.githubusercontent.com/1950858/60845491-290fe100-a1e5-11e9-9f30-eb06ed7fce32.jpg)
 
