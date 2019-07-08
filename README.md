@@ -16,4 +16,4 @@ for example:
 ```
 ./yii yiicheck/file /home/websites_to_check_file.txt /home/detected_yii.txt true
 ```
-![terminal usage example](https://user-images.githubusercontent.com/1950858/60845491-290fe100-a1e5-11e9-9f30-eb06ed7fce32.jpg)
+![terminal usage example](https://user-images.githubusercontent.com/1950858/60846193-59587f00-a1e7-11e9-842a-a6fd341a7d6a.png)
