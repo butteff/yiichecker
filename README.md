@@ -1,8 +1,8 @@
 # Yii Framework fingerprints checker
-Console Yii2 command, which helps to check any url for Yii framework fingerprints (does a website use yii or not). It also can check a list of urls (from the file). It can output results to a file (if you need) and work in a silent mode (optional parameter too).
+Console Yii2 command, which helps to check any url for Yii framework fingerprints (does a website use yii/yii2 or not). It also can check a list of urls (from the file). It can output results to a file (if you need) and work in a silent mode (optional parameter too).
 
 ## How to use:
-1. Upload YiicheckController file to your commands folder (for Basic Yii template) or to console/controllers (for Advanced Yii template)
+1. Upload YiicheckController.php file to your commands folder (for Basic Yii2 template) or to console/controllers (for Advanced Yii2 template)
 2. Go to your root folder of Yii framework
 3. Execute the **command to check a single url**:
 ```
